@@ -1,0 +1,1 @@
+Welcome to the TIC-TAC-TOE and Mad Libs Python Game project! This project combines two classic games into a single Python program that you can run in your terminal. Whether you want to challenge your friends to a game of TIC-TAC-TOE or have some fun with Mad Libs, this program has got you covered.
